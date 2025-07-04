@@ -1,0 +1,12 @@
+div{
+text-align: center;
+border-radius: 15px;
+background-color: rgb(215, 146, 56);
+max-width: 600px;
+margin: 50px auto;
+}
+a{
+    text-align: center;
+    font-size: 2rem;
+    margin: 50px auto;
+}
