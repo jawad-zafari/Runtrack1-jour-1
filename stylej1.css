@@ -12,9 +12,10 @@ a{
     font-size: 2rem;
     margin: 50px auto;
     border-radius: 15px;
-    border: solid rgb(19, 3, 6);
+    border: solid rgb(28, 27, 27);
     max-width: 50px;
-    background-color: rgb(88, 189, 240);
     padding: 10px;
-    transform: scale(1.05);
+    background: #75c2fa;
+    text-decoration: none;
+
 }
