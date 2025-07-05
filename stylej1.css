@@ -16,5 +16,5 @@ a{
     max-width: 50px;
     background-color: rgb(88, 189, 240);
     padding: 10px;
-    transition: all;
+    transform: scale(1.05);
 }
